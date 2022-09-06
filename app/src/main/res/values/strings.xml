@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab16_Lukyanov</string>
+    <string name="lab_IpSend">IP:</string>
+    <string name="lab_SendPort">PORT SEND:</string>
+    <string name="lab_ReceivePort">PORT GET:</string>
+    <string name="lab_Port">PORT:</string>
+    <string name="lab_Nick">NickName:</string>
+    <string name="lab_SendMes">Message to send</string>
+    <string name="lab_GetMess">Message:</string>
+    <string name="btn_Send">SEND MESSAGE</string>
+    <string name="lab_Number">Number:</string>
+    <string name="lab_DateTime">Date/Time:</string>
+    <string name="btn_Save">SAVE SETTINGS</string>
+</resources>
